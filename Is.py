@@ -1,5 +1,5 @@
 # Define the input string
-input_string = "Swanand Kulkarni"
+input_string = "Hellow World"
 
 # Initialize the result strings
 and_result = ""
