@@ -59,7 +59,7 @@ def decrypt(ciphertext):
     return plaintext
 
 # Test the functions
-plaintext = "Lalit Pawar"
+plaintext = "Swanand Kulkarni"
 ciphertext = encrypt(plaintext)
 decrypted_plaintext = decrypt(ciphertext)
 
